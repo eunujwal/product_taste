@@ -506,13 +506,3 @@ Mitigations:
    - Main: Exercise B — compare two ride-hailing apps' post-ride flows for different users.
    - Extraction: Principle around closure and feedback in service experiences.
 5. After 4 sessions: Skill summarizes observed patterns, updates the user's "Taste Playbook," and adjusts focus (e.g., more emphasis on metrics if that's weak).
-
----
-
-## Relationship to Other Skills
-
-- **user-research-lab** — For deeper work on interviewing, surveying, and discovery.
-- **decision-framing-lab** — For structuring tradeoff decisions and strategy docs.
-- **writing-lab** — For honing microcopy and narrative clarity.
-
-Product Taste Lab should integrate with these skills conceptually but remain focused on *judgement of experiences* and *mapping solutions to user needs*, not on documentation or data gathering per se.
